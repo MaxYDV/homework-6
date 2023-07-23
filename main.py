@@ -77,7 +77,23 @@ import random
 # З функції потрібно повернути кількість видаленних елементів.
 # ###################################################################################
 
-
+# random_list_of_integers = []                                                        # генерация списка
+# for i in range(10):
+#     random_list_of_integers.append(random.randint(1, 10))
+#
+# print(random_list_of_integers)
+# delete_number = int(input("Enter the number you want to delete: "))
+#
+#
+# def delete_int(some_list_of_integers, some_number):
+#     counter = some_list_of_integers.count(some_number)
+#     for i in range(counter):
+#         some_list_of_integers.remove(some_number)
+#
+#     return print(f"Corrected list of numbers {random_list_of_integers}" + "\n" + f"Number of deleted numbers: {counter}")
+#
+#
+# delete_int(random_list_of_integers, delete_number)
 
 ####################################################################################
 # Завдання 5
