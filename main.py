@@ -1,10 +1,25 @@
+import random
 # Завдання 1
 #
 # Напишіть функцію, яка обчислює добуток елементів списку цілих.
 # Список передається як параметр. Отриманий результат повертається із функції.
 ####################################################################################
 
-
+# random_list_of_integers = []                                                        # генерация списка
+# for i in range(10):
+#     random_list_of_integers.append(random.randint(1, 10))
+#
+# print(random_list_of_integers)
+#
+#
+# def mult_elements(some_list_of_integers):                                           # функция умножения целых
+#     mult_of_numbers = 1
+#     for i in some_list_of_integers:
+#         mult_of_numbers *= i
+#     return print(f"Multiplication of all numbers in the list = {mult_of_numbers}")
+#
+#
+# mult_elements(random_list_of_integers)
 
 ####################################################################################
 # Завдання 2
