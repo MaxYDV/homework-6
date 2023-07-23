@@ -48,7 +48,27 @@ import random
 # Список передається як параметр. Отриманий результат повертається із функції.
 ####################################################################################
 
-
+# random_list_of_integers = []                                                        # генерация списка
+# for i in range(10):
+#     random_list_of_integers.append(random.randint(1, 100))
+#
+#
+# def simple_num(some_list_of_integers):                                              # функция нахождения количества простых чисел
+#     list_simpl = []
+#
+#     for i in some_list_of_integers:
+#         if i > 1:
+#             is_simple = True
+#             for j in range(2, i):
+#                 if i % j == 0:
+#                     is_simple = False
+#                     break
+#             if is_simple:
+#                 list_simpl.append(i)
+#     return print(f"List of integers {random_list_of_integers}" + "\n" + f"List of prime numbers {list_simpl}" + "\n" + f"There are only {len(list_simpl)} prime numbers")
+#
+#
+# simple_num(random_list_of_integers)
 
 ####################################################################################
 # Завдання 4
