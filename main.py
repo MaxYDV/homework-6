@@ -121,6 +121,21 @@ import random
 # Функція повертає новий список, який містить отримані результати.
 # ###################################################################################
 
-
+# random_list_of_integers = []                                                        # генерация списка
+# for i in range(10):
+#     random_list_of_integers.append(random.randint(1, 10))
+#
+# print(random_list_of_integers)
+# degree = int(input("Enter a number to what degree you want to raise all the elements in the list: "))
+#
+#
+# def degree_list(some_list_of_integers, some_degree):
+#     new_list = []
+#     for i in some_list_of_integers:
+#         new_list.append(i ** some_degree)
+#     return new_list
+#
+#
+# print(degree_list(random_list_of_integers, degree))
 
 ####################################################################################
