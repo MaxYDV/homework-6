@@ -28,7 +28,18 @@ import random
 # Список передається як параметр. Отриманий результат повертається із функції.
 ####################################################################################
 
-
+# random_list_of_integers = []                                                        # генерация списка
+# for i in range(10):
+#     random_list_of_integers.append(random.randint(-10, 10))
+#
+# print(random_list_of_integers)
+#
+#
+# def find_min(some_list_of_integers):                                                # функция нахождения минимального числа
+#     return print(f"Minimum number from the list = {min(some_list_of_integers)}")
+#
+#
+# find_min(random_list_of_integers)
 
 ####################################################################################
 # Завдання 3
