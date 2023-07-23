@@ -102,7 +102,16 @@ import random
 # що містить елементи обох списків.
 ####################################################################################
 
-
+# list_fruits_1 = ["apple", "orange", "banana"]
+# list_fruits_2 = ["peach", "pear", "pineapple"]
+#
+#
+# def mixed_list(list_1, list_2):
+#     list_1.extend(list_2)
+#     return print(f"Mixed list {list_1}")
+#
+#
+# mixed_list(list_fruits_1, list_fruits_2)
 
 ####################################################################################
 # Завдання 6
